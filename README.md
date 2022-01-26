@@ -1,2 +1,4 @@
-# Dio-Desafio-GitHub
-Meu primeiro repositório e desafio de projeto sobre GitHub
+# Repositorio de desafio da Dio
+## Meu primeiro repositório e desafio de projeto sobre GitHub
+
+[Link do meu Linkedin](https://www.linkedin.com/in/anderson-thomas-guimaraes-04a559b8/)
